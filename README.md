@@ -62,6 +62,9 @@ The application initializes tables on startup. Existing `gantt_tasks` tables are
 ## Gantt Chart Calculator :
 <img width="1074" height="805" alt="image" src="https://github.com/user-attachments/assets/95320c87-dd0b-4ef5-8d69-a68adea1ec74" />
 
+## Server Web Based:
+<img width="1074" height="877" alt="image" src="https://github.com/user-attachments/assets/94171577-b5aa-4526-87b0-661ec44b2c29" />
+
 
 
 ## Troubleshooting
